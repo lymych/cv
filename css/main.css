@@ -1367,22 +1367,6 @@ textarea.form-control, textarea.form-control:focus {
 
 /* --- End of Skills --- */
 
-/* --- Knowledges --- */
-/* .knowledges {
-  list-style: none;
-}
-
-.knowledges li {;
-  display: inline-block;
-  background-color: #04b4e0;
-  border-radius: 3px;
-  color: #fff;
-  padding: 1px 10px;
-  margin: 3px 2px;
-  font-size: 13px;
-} */
-/* --- End of Knowledges --- */
-
 /* --- Certificates --- */
 .certificate-item {
   position: relative;
